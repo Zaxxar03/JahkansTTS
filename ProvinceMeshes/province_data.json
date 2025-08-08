@@ -1,0 +1,2420 @@
+{
+    "province_001": {
+        "display_name": "province_001",
+        "neighbors": [],
+        "position": {
+            "x": 0.0073,
+            "y": -0.3354,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_002": {
+        "display_name": "province_002",
+        "neighbors": [],
+        "position": {
+            "x": 0.2196,
+            "y": -0.0456,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_003": {
+        "display_name": "province_003",
+        "neighbors": [],
+        "position": {
+            "x": 0.1345,
+            "y": -0.0508,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_004": {
+        "display_name": "province_004",
+        "neighbors": [],
+        "position": {
+            "x": 0.0514,
+            "y": -0.2276,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_005": {
+        "display_name": "province_005",
+        "neighbors": [],
+        "position": {
+            "x": -0.2464,
+            "y": -0.0697,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_006": {
+        "display_name": "province_006",
+        "neighbors": [],
+        "position": {
+            "x": -0.1998,
+            "y": -0.1422,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_007": {
+        "display_name": "province_007",
+        "neighbors": [],
+        "position": {
+            "x": 0.4858,
+            "y": -0.3745,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_008": {
+        "display_name": "province_008",
+        "neighbors": [],
+        "position": {
+            "x": -0.0033,
+            "y": 0.0666,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_009": {
+        "display_name": "province_009",
+        "neighbors": [],
+        "position": {
+            "x": 0.0233,
+            "y": -0.2887,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_010": {
+        "display_name": "province_010",
+        "neighbors": [],
+        "position": {
+            "x": 0.1531,
+            "y": -0.1046,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_011": {
+        "display_name": "province_011",
+        "neighbors": [],
+        "position": {
+            "x": 0.1673,
+            "y": -0.0721,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_012": {
+        "display_name": "province_012",
+        "neighbors": [],
+        "position": {
+            "x": 0.0685,
+            "y": 0.0593,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_013": {
+        "display_name": "province_013",
+        "neighbors": [],
+        "position": {
+            "x": -0.0838,
+            "y": -0.1412,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_014": {
+        "display_name": "province_014",
+        "neighbors": [],
+        "position": {
+            "x": -0.307,
+            "y": -0.0974,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_015": {
+        "display_name": "province_015",
+        "neighbors": [],
+        "position": {
+            "x": 0.0047,
+            "y": -0.091,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_016": {
+        "display_name": "province_016",
+        "neighbors": [],
+        "position": {
+            "x": 0.0036,
+            "y": -0.0546,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_017": {
+        "display_name": "province_017",
+        "neighbors": [],
+        "position": {
+            "x": 0.1176,
+            "y": 0.0773,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_018": {
+        "display_name": "province_018",
+        "neighbors": [],
+        "position": {
+            "x": 0.5854,
+            "y": -0.2952,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_019": {
+        "display_name": "province_019",
+        "neighbors": [],
+        "position": {
+            "x": 0.2595,
+            "y": -0.1699,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_020": {
+        "display_name": "province_020",
+        "neighbors": [],
+        "position": {
+            "x": -0.2418,
+            "y": -0.1764,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_021": {
+        "display_name": "province_021",
+        "neighbors": [],
+        "position": {
+            "x": 0.0919,
+            "y": -0.0282,
+            "z": 0.0017
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_022": {
+        "display_name": "province_022",
+        "neighbors": [],
+        "position": {
+            "x": -0.6852,
+            "y": 0.2216,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_023": {
+        "display_name": "province_023",
+        "neighbors": [],
+        "position": {
+            "x": -0.2156,
+            "y": -0.0185,
+            "z": 0.0017
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_024": {
+        "display_name": "province_024",
+        "neighbors": [],
+        "position": {
+            "x": -0.1691,
+            "y": -0.2231,
+            "z": 0.001
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_025": {
+        "display_name": "province_025",
+        "neighbors": [],
+        "position": {
+            "x": 0.1045,
+            "y": -0.0745,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_026": {
+        "display_name": "province_026",
+        "neighbors": [],
+        "position": {
+            "x": 0.1335,
+            "y": -0.3034,
+            "z": 0.001
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_027": {
+        "display_name": "province_027",
+        "neighbors": [],
+        "position": {
+            "x": -0.0305,
+            "y": -0.364,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_028": {
+        "display_name": "province_028",
+        "neighbors": [],
+        "position": {
+            "x": 0.1102,
+            "y": 0.0102,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_029": {
+        "display_name": "province_029",
+        "neighbors": [],
+        "position": {
+            "x": -0.1572,
+            "y": -0.0019,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_030": {
+        "display_name": "province_030",
+        "neighbors": [],
+        "position": {
+            "x": -0.0989,
+            "y": 0.0485,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_031": {
+        "display_name": "province_031",
+        "neighbors": [],
+        "position": {
+            "x": -0.0962,
+            "y": -0.0552,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_032": {
+        "display_name": "province_032",
+        "neighbors": [],
+        "position": {
+            "x": 0.0675,
+            "y": -0.0923,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_033": {
+        "display_name": "province_033",
+        "neighbors": [],
+        "position": {
+            "x": 0.3869,
+            "y": -0.2594,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_034": {
+        "display_name": "province_034",
+        "neighbors": [],
+        "position": {
+            "x": -0.6791,
+            "y": 0.1701,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_035": {
+        "display_name": "province_035",
+        "neighbors": [],
+        "position": {
+            "x": 0.2705,
+            "y": -0.3852,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_036": {
+        "display_name": "province_036",
+        "neighbors": [],
+        "position": {
+            "x": 0.2155,
+            "y": -0.3751,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_037": {
+        "display_name": "province_037",
+        "neighbors": [],
+        "position": {
+            "x": -0.6457,
+            "y": 0.2401,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_038": {
+        "display_name": "province_038",
+        "neighbors": [],
+        "position": {
+            "x": -0.6608,
+            "y": 0.21,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_039": {
+        "display_name": "province_039",
+        "neighbors": [],
+        "position": {
+            "x": -0.6661,
+            "y": 0.2746,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_040": {
+        "display_name": "province_040",
+        "neighbors": [],
+        "position": {
+            "x": -0.6919,
+            "y": 0.3187,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_041": {
+        "display_name": "province_041",
+        "neighbors": [],
+        "position": {
+            "x": -0.605,
+            "y": 0.2785,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_042": {
+        "display_name": "province_042",
+        "neighbors": [],
+        "position": {
+            "x": -0.5991,
+            "y": 0.2431,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_043": {
+        "display_name": "province_043",
+        "neighbors": [],
+        "position": {
+            "x": -0.5632,
+            "y": 0.2201,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_044": {
+        "display_name": "province_044",
+        "neighbors": [],
+        "position": {
+            "x": -0.4238,
+            "y": 0.0549,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_045": {
+        "display_name": "province_045",
+        "neighbors": [],
+        "position": {
+            "x": -0.4037,
+            "y": 0.0195,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_046": {
+        "display_name": "province_046",
+        "neighbors": [],
+        "position": {
+            "x": -0.3599,
+            "y": 0.0114,
+            "z": 0.0018
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_047": {
+        "display_name": "province_047",
+        "neighbors": [],
+        "position": {
+            "x": -0.3301,
+            "y": 0.0271,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_048": {
+        "display_name": "province_048",
+        "neighbors": [],
+        "position": {
+            "x": -0.2846,
+            "y": 0.0176,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_049": {
+        "display_name": "province_049",
+        "neighbors": [],
+        "position": {
+            "x": -0.3201,
+            "y": -0.0373,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_050": {
+        "display_name": "province_050",
+        "neighbors": [],
+        "position": {
+            "x": -0.3018,
+            "y": -0.0093,
+            "z": 0.0017
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_051": {
+        "display_name": "province_051",
+        "neighbors": [],
+        "position": {
+            "x": -0.288,
+            "y": -0.0734,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_052": {
+        "display_name": "province_052",
+        "neighbors": [],
+        "position": {
+            "x": -0.2697,
+            "y": -0.1049,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_053": {
+        "display_name": "province_053",
+        "neighbors": [],
+        "position": {
+            "x": -0.2289,
+            "y": -0.1208,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_054": {
+        "display_name": "province_054",
+        "neighbors": [],
+        "position": {
+            "x": -0.2263,
+            "y": -0.0822,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_055": {
+        "display_name": "province_055",
+        "neighbors": [],
+        "position": {
+            "x": -0.2629,
+            "y": -0.0425,
+            "z": 0.0019
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_056": {
+        "display_name": "province_056",
+        "neighbors": [],
+        "position": {
+            "x": -0.2607,
+            "y": -0.0068,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_057": {
+        "display_name": "province_057",
+        "neighbors": [],
+        "position": {
+            "x": -0.2296,
+            "y": 0.0168,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_058": {
+        "display_name": "province_058",
+        "neighbors": [],
+        "position": {
+            "x": -0.2057,
+            "y": -0.0515,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_059": {
+        "display_name": "province_059",
+        "neighbors": [],
+        "position": {
+            "x": -0.3287,
+            "y": -0.1853,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_060": {
+        "display_name": "province_060",
+        "neighbors": [],
+        "position": {
+            "x": -0.338,
+            "y": -0.2423,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_061": {
+        "display_name": "province_061",
+        "neighbors": [],
+        "position": {
+            "x": -0.2915,
+            "y": -0.2215,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_062": {
+        "display_name": "province_062",
+        "neighbors": [],
+        "position": {
+            "x": -0.2531,
+            "y": -0.2358,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_063": {
+        "display_name": "province_063",
+        "neighbors": [],
+        "position": {
+            "x": -0.2732,
+            "y": -0.1846,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_064": {
+        "display_name": "province_064",
+        "neighbors": [],
+        "position": {
+            "x": -0.2564,
+            "y": -0.2065,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_065": {
+        "display_name": "province_065",
+        "neighbors": [],
+        "position": {
+            "x": -0.2171,
+            "y": -0.2212,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_066": {
+        "display_name": "province_066",
+        "neighbors": [],
+        "position": {
+            "x": -0.2157,
+            "y": -0.1951,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_067": {
+        "display_name": "province_067",
+        "neighbors": [],
+        "position": {
+            "x": -0.1745,
+            "y": -0.1428,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_068": {
+        "display_name": "province_068",
+        "neighbors": [],
+        "position": {
+            "x": -0.1687,
+            "y": -0.1087,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_069": {
+        "display_name": "province_069",
+        "neighbors": [],
+        "position": {
+            "x": -0.1504,
+            "y": -0.1535,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_070": {
+        "display_name": "province_070",
+        "neighbors": [],
+        "position": {
+            "x": -0.1257,
+            "y": -0.1179,
+            "z": 0.0018
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_071": {
+        "display_name": "province_071",
+        "neighbors": [],
+        "position": {
+            "x": -0.1696,
+            "y": -0.0691,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_072": {
+        "display_name": "province_072",
+        "neighbors": [],
+        "position": {
+            "x": -0.181,
+            "y": -0.0311,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_073": {
+        "display_name": "province_073",
+        "neighbors": [],
+        "position": {
+            "x": -0.1409,
+            "y": 0.0264,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_074": {
+        "display_name": "province_074",
+        "neighbors": [],
+        "position": {
+            "x": -0.1236,
+            "y": 0.0016,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_075": {
+        "display_name": "province_075",
+        "neighbors": [],
+        "position": {
+            "x": -0.1335,
+            "y": -0.0425,
+            "z": 0.0018
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_076": {
+        "display_name": "province_076",
+        "neighbors": [],
+        "position": {
+            "x": -0.0934,
+            "y": -0.0312,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_077": {
+        "display_name": "province_077",
+        "neighbors": [],
+        "position": {
+            "x": -0.0725,
+            "y": -0.0013,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_078": {
+        "display_name": "province_078",
+        "neighbors": [],
+        "position": {
+            "x": -0.0645,
+            "y": -0.0428,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_079": {
+        "display_name": "province_079",
+        "neighbors": [],
+        "position": {
+            "x": -0.0418,
+            "y": -0.0188,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_080": {
+        "display_name": "province_080",
+        "neighbors": [],
+        "position": {
+            "x": -0.0254,
+            "y": -0.0527,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_081": {
+        "display_name": "province_081",
+        "neighbors": [],
+        "position": {
+            "x": -0.0356,
+            "y": -0.0784,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_082": {
+        "display_name": "province_082",
+        "neighbors": [],
+        "position": {
+            "x": -0.0298,
+            "y": 0.0245,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_083": {
+        "display_name": "province_083",
+        "neighbors": [],
+        "position": {
+            "x": -0.059,
+            "y": 0.0635,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_084": {
+        "display_name": "province_084",
+        "neighbors": [],
+        "position": {
+            "x": -0.0408,
+            "y": 0.0776,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_085": {
+        "display_name": "province_085",
+        "neighbors": [],
+        "position": {
+            "x": 0.05,
+            "y": 0.0343,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_086": {
+        "display_name": "province_086",
+        "neighbors": [],
+        "position": {
+            "x": 0.0466,
+            "y": 0.0895,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_087": {
+        "display_name": "province_087",
+        "neighbors": [],
+        "position": {
+            "x": 0.0793,
+            "y": 0.0299,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_088": {
+        "display_name": "province_088",
+        "neighbors": [],
+        "position": {
+            "x": 0.1575,
+            "y": 0.0534,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_089": {
+        "display_name": "province_089",
+        "neighbors": [],
+        "position": {
+            "x": 0.1581,
+            "y": 0.0144,
+            "z": 0.0018
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_090": {
+        "display_name": "province_090",
+        "neighbors": [],
+        "position": {
+            "x": 0.1252,
+            "y": -0.0109,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_091": {
+        "display_name": "province_091",
+        "neighbors": [],
+        "position": {
+            "x": 0.0524,
+            "y": -0.046,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_092": {
+        "display_name": "province_092",
+        "neighbors": [],
+        "position": {
+            "x": 0.0427,
+            "y": -0.0814,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_093": {
+        "display_name": "province_093",
+        "neighbors": [],
+        "position": {
+            "x": 0.1361,
+            "y": -0.034,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_094": {
+        "display_name": "province_094",
+        "neighbors": [],
+        "position": {
+            "x": 0.1334,
+            "y": -0.0791,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_095": {
+        "display_name": "province_095",
+        "neighbors": [],
+        "position": {
+            "x": 0.2049,
+            "y": -0.0656,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_096": {
+        "display_name": "province_096",
+        "neighbors": [],
+        "position": {
+            "x": 0.1744,
+            "y": -0.0424,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_097": {
+        "display_name": "province_097",
+        "neighbors": [],
+        "position": {
+            "x": 0.1926,
+            "y": 0.0437,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_098": {
+        "display_name": "province_098",
+        "neighbors": [],
+        "position": {
+            "x": 0.2282,
+            "y": 0.0328,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_099": {
+        "display_name": "province_099",
+        "neighbors": [],
+        "position": {
+            "x": 0.1939,
+            "y": 0.0149,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_100": {
+        "display_name": "province_100",
+        "neighbors": [],
+        "position": {
+            "x": 0.2499,
+            "y": -0.0538,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_101": {
+        "display_name": "province_101",
+        "neighbors": [],
+        "position": {
+            "x": -0.086,
+            "y": -0.1603,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_102": {
+        "display_name": "province_102",
+        "neighbors": [],
+        "position": {
+            "x": -0.0334,
+            "y": -0.1491,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_103": {
+        "display_name": "province_103",
+        "neighbors": [],
+        "position": {
+            "x": -0.0361,
+            "y": -0.182,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_104": {
+        "display_name": "province_104",
+        "neighbors": [],
+        "position": {
+            "x": 0.0196,
+            "y": -0.1855,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_105": {
+        "display_name": "province_105",
+        "neighbors": [],
+        "position": {
+            "x": -0.0548,
+            "y": -0.2146,
+            "z": 0.0017
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_106": {
+        "display_name": "province_106",
+        "neighbors": [],
+        "position": {
+            "x": 0.003,
+            "y": -0.2229,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_107": {
+        "display_name": "province_107",
+        "neighbors": [],
+        "position": {
+            "x": 0.0239,
+            "y": -0.2528,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_108": {
+        "display_name": "province_108",
+        "neighbors": [],
+        "position": {
+            "x": -0.0198,
+            "y": -0.3054,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_109": {
+        "display_name": "province_109",
+        "neighbors": [],
+        "position": {
+            "x": -0.1003,
+            "y": -0.3268,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_110": {
+        "display_name": "province_110",
+        "neighbors": [],
+        "position": {
+            "x": -0.0513,
+            "y": -0.3197,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_111": {
+        "display_name": "province_111",
+        "neighbors": [],
+        "position": {
+            "x": 0.0422,
+            "y": -0.3636,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_112": {
+        "display_name": "province_112",
+        "neighbors": [],
+        "position": {
+            "x": 0.0844,
+            "y": -0.3884,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_113": {
+        "display_name": "province_113",
+        "neighbors": [],
+        "position": {
+            "x": 0.0649,
+            "y": -0.1623,
+            "z": 0.0017
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_114": {
+        "display_name": "province_114",
+        "neighbors": [],
+        "position": {
+            "x": 0.0667,
+            "y": -0.2022,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_115": {
+        "display_name": "province_115",
+        "neighbors": [],
+        "position": {
+            "x": 0.143,
+            "y": -0.1427,
+            "z": 0.0018
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_116": {
+        "display_name": "province_116",
+        "neighbors": [],
+        "position": {
+            "x": 0.358,
+            "y": -0.1737,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_117": {
+        "display_name": "province_117",
+        "neighbors": [],
+        "position": {
+            "x": 0.284,
+            "y": -0.2086,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_118": {
+        "display_name": "province_118",
+        "neighbors": [],
+        "position": {
+            "x": 0.3573,
+            "y": -0.2244,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_119": {
+        "display_name": "province_119",
+        "neighbors": [],
+        "position": {
+            "x": 0.2602,
+            "y": -0.2461,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_120": {
+        "display_name": "province_120",
+        "neighbors": [],
+        "position": {
+            "x": 0.3185,
+            "y": -0.2812,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_121": {
+        "display_name": "province_121",
+        "neighbors": [],
+        "position": {
+            "x": 0.4243,
+            "y": -0.2301,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_122": {
+        "display_name": "province_122",
+        "neighbors": [],
+        "position": {
+            "x": 0.484,
+            "y": -0.2661,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_123": {
+        "display_name": "province_123",
+        "neighbors": [],
+        "position": {
+            "x": 0.4906,
+            "y": -0.1929,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_124": {
+        "display_name": "province_124",
+        "neighbors": [],
+        "position": {
+            "x": 0.5204,
+            "y": -0.1361,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_125": {
+        "display_name": "province_125",
+        "neighbors": [],
+        "position": {
+            "x": 0.634,
+            "y": -0.1228,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_126": {
+        "display_name": "province_126",
+        "neighbors": [],
+        "position": {
+            "x": 0.7191,
+            "y": -0.1579,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_127": {
+        "display_name": "province_127",
+        "neighbors": [],
+        "position": {
+            "x": 0.3306,
+            "y": -0.3981,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_128": {
+        "display_name": "province_128",
+        "neighbors": [],
+        "position": {
+            "x": 0.2248,
+            "y": -0.3519,
+            "z": 0.001
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_129": {
+        "display_name": "province_129",
+        "neighbors": [],
+        "position": {
+            "x": 0.2414,
+            "y": -0.391,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_130": {
+        "display_name": "province_130",
+        "neighbors": [],
+        "position": {
+            "x": 0.2822,
+            "y": 0.034,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_131": {
+        "display_name": "province_131",
+        "neighbors": [],
+        "position": {
+            "x": 0.2775,
+            "y": -0.0144,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_132": {
+        "display_name": "province_132",
+        "neighbors": [],
+        "position": {
+            "x": 0.2762,
+            "y": -0.0509,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_133": {
+        "display_name": "province_133",
+        "neighbors": [],
+        "position": {
+            "x": 0.317,
+            "y": -0.0563,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_134": {
+        "display_name": "province_134",
+        "neighbors": [],
+        "position": {
+            "x": 0.3036,
+            "y": -0.0291,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_135": {
+        "display_name": "province_135",
+        "neighbors": [],
+        "position": {
+            "x": 0.2968,
+            "y": 0.009,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_136": {
+        "display_name": "province_136",
+        "neighbors": [],
+        "position": {
+            "x": 0.329,
+            "y": 0.0184,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_137": {
+        "display_name": "province_137",
+        "neighbors": [],
+        "position": {
+            "x": 0.3181,
+            "y": -0.0072,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_138": {
+        "display_name": "province_138",
+        "neighbors": [],
+        "position": {
+            "x": 0.3348,
+            "y": -0.0341,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_139": {
+        "display_name": "province_139",
+        "neighbors": [],
+        "position": {
+            "x": 0.3467,
+            "y": -0.0057,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_140": {
+        "display_name": "province_140",
+        "neighbors": [],
+        "position": {
+            "x": 0.3687,
+            "y": 0.0139,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_141": {
+        "display_name": "province_141",
+        "neighbors": [],
+        "position": {
+            "x": 0.3471,
+            "y": -0.0618,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_142": {
+        "display_name": "province_142",
+        "neighbors": [],
+        "position": {
+            "x": 0.3745,
+            "y": -0.0302,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_143": {
+        "display_name": "province_143",
+        "neighbors": [],
+        "position": {
+            "x": 0.3814,
+            "y": -0.0044,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_144": {
+        "display_name": "province_144",
+        "neighbors": [],
+        "position": {
+            "x": 0.3752,
+            "y": -0.0548,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_145": {
+        "display_name": "province_145",
+        "neighbors": [],
+        "position": {
+            "x": 0.3852,
+            "y": -0.0756,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_146": {
+        "display_name": "province_146",
+        "neighbors": [],
+        "position": {
+            "x": 0.4125,
+            "y": -0.07,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_147": {
+        "display_name": "province_147",
+        "neighbors": [],
+        "position": {
+            "x": 0.4167,
+            "y": -0.0279,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_148": {
+        "display_name": "province_148",
+        "neighbors": [],
+        "position": {
+            "x": 0.4078,
+            "y": 0.012,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_149": {
+        "display_name": "province_149",
+        "neighbors": [],
+        "position": {
+            "x": 0.4399,
+            "y": 0.0125,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_150": {
+        "display_name": "province_150",
+        "neighbors": [],
+        "position": {
+            "x": 0.1781,
+            "y": -0.132,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_151": {
+        "display_name": "province_151",
+        "neighbors": [],
+        "position": {
+            "x": -0.086,
+            "y": -0.2832,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_152": {
+        "display_name": "province_152",
+        "neighbors": [],
+        "position": {
+            "x": -0.34,
+            "y": -0.0072,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_153": {
+        "display_name": "province_153",
+        "neighbors": [],
+        "position": {
+            "x": 0.1158,
+            "y": -0.4019,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_154": {
+        "display_name": "province_154",
+        "neighbors": [],
+        "position": {
+            "x": 0.531,
+            "y": -0.3254,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_155": {
+        "display_name": "province_155",
+        "neighbors": [],
+        "position": {
+            "x": 0.4202,
+            "y": -0.172,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_156": {
+        "display_name": "province_156",
+        "neighbors": [],
+        "position": {
+            "x": 0.1848,
+            "y": -0.0296,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_157": {
+        "display_name": "province_157",
+        "neighbors": [],
+        "position": {
+            "x": 0.1899,
+            "y": -0.0952,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_158": {
+        "display_name": "province_158",
+        "neighbors": [],
+        "position": {
+            "x": 0.0174,
+            "y": -0.1644,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_159": {
+        "display_name": "province_159",
+        "neighbors": [],
+        "position": {
+            "x": -0.1811,
+            "y": 0.0123,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_160": {
+        "display_name": "province_160",
+        "neighbors": [],
+        "position": {
+            "x": 0.7607,
+            "y": -0.1452,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_161": {
+        "display_name": "province_161",
+        "neighbors": [],
+        "position": {
+            "x": 0.4638,
+            "y": -0.1473,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_162": {
+        "display_name": "province_162",
+        "neighbors": [],
+        "position": {
+            "x": 0.6683,
+            "y": -0.1646,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_163": {
+        "display_name": "province_163",
+        "neighbors": [],
+        "position": {
+            "x": 0.2041,
+            "y": -0.1677,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_164": {
+        "display_name": "province_164",
+        "neighbors": [],
+        "position": {
+            "x": -0.3011,
+            "y": -0.1804,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_165": {
+        "display_name": "province_165",
+        "neighbors": [],
+        "position": {
+            "x": -0.3312,
+            "y": -0.2203,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_166": {
+        "display_name": "province_166",
+        "neighbors": [],
+        "position": {
+            "x": 0.246,
+            "y": -0.2745,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_167": {
+        "display_name": "province_167",
+        "neighbors": [],
+        "position": {
+            "x": 0.0778,
+            "y": 0.1094,
+            "z": 0.0012
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_168": {
+        "display_name": "province_168",
+        "neighbors": [],
+        "position": {
+            "x": -0.0402,
+            "y": -0.2419,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_169": {
+        "display_name": "province_169",
+        "neighbors": [],
+        "position": {
+            "x": -0.2414,
+            "y": -0.3364,
+            "z": 0.001
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_170": {
+        "display_name": "province_170",
+        "neighbors": [],
+        "position": {
+            "x": 0.1134,
+            "y": 0.038,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_171": {
+        "display_name": "province_171",
+        "neighbors": [],
+        "position": {
+            "x": -0.1877,
+            "y": -0.0959,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_172": {
+        "display_name": "province_172",
+        "neighbors": [],
+        "position": {
+            "x": 0.1095,
+            "y": -0.1859,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_173": {
+        "display_name": "province_173",
+        "neighbors": [],
+        "position": {
+            "x": -0.0814,
+            "y": -0.1962,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_174": {
+        "display_name": "province_174",
+        "neighbors": [],
+        "position": {
+            "x": -0.3846,
+            "y": 0.0449,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_175": {
+        "display_name": "province_175",
+        "neighbors": [],
+        "position": {
+            "x": 0.1694,
+            "y": -0.1944,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_176": {
+        "display_name": "province_176",
+        "neighbors": [],
+        "position": {
+            "x": 0.1709,
+            "y": -0.0087,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_177": {
+        "display_name": "province_177",
+        "neighbors": [],
+        "position": {
+            "x": 0.5649,
+            "y": -0.1264,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_178": {
+        "display_name": "province_178",
+        "neighbors": [],
+        "position": {
+            "x": 0.4242,
+            "y": -0.3914,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_179": {
+        "display_name": "province_179",
+        "neighbors": [],
+        "position": {
+            "x": 0.2125,
+            "y": -0.0079,
+            "z": 0.002
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_180": {
+        "display_name": "province_180",
+        "neighbors": [],
+        "position": {
+            "x": 0.2737,
+            "y": -0.4202,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_181": {
+        "display_name": "province_181",
+        "neighbors": [],
+        "position": {
+            "x": 0.452,
+            "y": -0.2077,
+            "z": 0.0016
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_182": {
+        "display_name": "province_182",
+        "neighbors": [],
+        "position": {
+            "x": 0.6941,
+            "y": -0.126,
+            "z": 0.0015
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_183": {
+        "display_name": "province_183",
+        "neighbors": [],
+        "position": {
+            "x": 0.0105,
+            "y": -0.0097,
+            "z": 0.0017
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_184": {
+        "display_name": "province_184",
+        "neighbors": [],
+        "position": {
+            "x": -0.2919,
+            "y": -0.2542,
+            "z": 0.0011
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_185": {
+        "display_name": "province_185",
+        "neighbors": [],
+        "position": {
+            "x": -0.6489,
+            "y": 0.316,
+            "z": 0.0013
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    },
+    "province_186": {
+        "display_name": "province_186",
+        "neighbors": [],
+        "position": {
+            "x": -0.1183,
+            "y": -0.147,
+            "z": 0.0014
+        },
+        "type": "land",
+        "tags": [],
+        "owner": "None",
+        "custom_data": {}
+    }
+}
